@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ddup_DouBan</string>
+
+    <string name="tab_home">首页</string>
+    <string name="tab_mine">我的</string>
+    <string name="tab_search">搜索</string>
+    <string name="tab_movie">电影</string>
+
+    <string name="topic_bean_publish">发布于：</string>
+</resources>
