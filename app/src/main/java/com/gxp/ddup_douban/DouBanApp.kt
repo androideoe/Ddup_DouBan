@@ -1,4 +1,4 @@
-package com.gxp.ddup_douban.base
+package com.gxp.ddup_douban
 
 import android.app.Application
 
